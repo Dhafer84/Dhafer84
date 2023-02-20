@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning nodeJS
 - 💬 Ask me about anythink
 - 📫 How to reach me: boutheljad84@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am Funny
 
